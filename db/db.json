@@ -2,17 +2,48 @@
   "projects": [
     {
       "id": 1,
-      "title": "The Far Side of the Moon",
-      "artist": "Strangethings",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "title": "HERE AT THE END OF THE ROAD",
+      "year": "[2019]",
+      "artist": "STRANGETHINGS",
+      "credits": "--ARTIST--PRODUCER--WRITER",
+      "artwork": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
+      "player": "https://open.spotify.com/track/4w3gBqDqAGSwhStg1mElCq?si=839e771ed74b4b0d"
     },
     {
       "id": 2,
-      "title": "Here at the End of the Road",
-      "artist": "Strangethings",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "title": "STRANGE THINGS (ARE HAPPENING TO ME)",
+      "year": "[2015]",
+      "artist": "STRANGETHINGS",
+      "credits": "--ARTIST--PRODUCER--WRITER",
+      "artwork": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "player": "https://open.spotify.com/track/24Yc8hds2PMZ0l4WdJEyk3?si=7771967888c84c6e"
+    },
+    {
+      "id": 3,
+      "title": "THE FAR SIDE OF THE MOON",
+      "year": "[2015]",
+      "artist": "STRANGETHINGS",
+      "credits": "--ARTIST--PRODUCER--WRITER--MIXER",
+      "artwork": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "player": "https://open.spotify.com/track/17yvQx92Gqj5f6NxUEZ7In?si=fdb2620e50814c07"
+    },
+    {
+      "id": 4,
+      "title": "OVER ME[FEAT. JENNY RAY]",
+      "year": "[2015]",
+      "artist": "STRANGETHINGS, JENNY RAY",
+      "credits": "--ARTIST--PRODUCER--WRITER",
+      "artwork": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "player": "https://open.spotify.com/track/7DRW8Oj7jxTvrtie2AxZOT?si=0e51e03701ee4be8"
+    },
+    {
+      "id": 5,
+      "title": "BRIGHT LIGHTS & CIGARETTES",
+      "year": "[2015]",
+      "artist": "STRANGETHINGS",
+      "credits": "--ARTIST--PRODUCER--WRITER--MIXER",
+      "artwork": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "player": "https://open.spotify.com/track/7DRW8Oj7jxTvrtie2AxZOT?si=0e51e03701ee4be8"
     }
   ]
 }
