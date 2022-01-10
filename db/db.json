@@ -45,5 +45,10 @@
       "artwork": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
       "player": "https://open.spotify.com/track/7DRW8Oj7jxTvrtie2AxZOT?si=0e51e03701ee4be8"
     }
+  ],
+  "home": [
+    {
+      "image": "../images/strangethings-02.jpg"
+    }
   ]
 }
