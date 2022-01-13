@@ -43,12 +43,19 @@
       "artist": "STRANGETHINGS",
       "credits": "--ARTIST--PRODUCER--WRITER--MIXER",
       "artwork": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "player": "https://open.spotify.com/track/7DRW8Oj7jxTvrtie2AxZOT?si=0e51e03701ee4be8"
+      "player": "https://open.spotify.com/track/1CluRM8W4LhnNh2I5IXzGQ?si=5280a6218cb04d71"
     }
   ],
   "home": [
     {
       "image": "../images/strangethings-02.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "Magdalen",
+      "comment": "Strangethings is timeless - because of the strong and steady beat that continues throughout the song. In addition to that traditional sound, the artist takes us into a cosmic atmosphere with underlying voices and a waning guitar that leaves the listener captivated and requesting for more."
     }
   ]
 }
