@@ -55,7 +55,12 @@
     {
       "id": 1,
       "name": "Magdalen",
-      "comment": "Strangethings is timeless - because of the strong and steady beat that continues throughout the song. In addition to that traditional sound, the artist takes us into a cosmic atmosphere with underlying voices and a waning guitar that leaves the listener captivated and requesting for more."
+      "comment": "Strangethings is timeless - because of the strong and steady beat that continues throughout the song. In addition to that traditional sound, the artist takes us into a cosmic atmosphere with underlying voices and a waning guitar that leaves the listener captivated yet requesting for more."
+    },
+    {
+      "name": "Emily",
+      "comment": "I love collaborating with Derek. He brings great ideas to the table and we always end up with something great!",
+      "id": 2
     }
   ]
 }
