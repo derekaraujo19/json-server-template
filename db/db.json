@@ -5,7 +5,7 @@
       "title": "HERE AT THE END OF THE ROAD",
       "year": "[2019]",
       "artist": "STRANGETHINGS",
-      "credits": "--ARTIST--PRODUCER--WRITER",
+      "credits": "-ARTIST--PRODUCER--WRITER-",
       "artwork": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
       "player": "https://open.spotify.com/track/4w3gBqDqAGSwhStg1mElCq?si=839e771ed74b4b0d"
     },
@@ -14,7 +14,7 @@
       "title": "STRANGE THINGS (ARE HAPPENING TO ME)",
       "year": "[2015]",
       "artist": "STRANGETHINGS",
-      "credits": "--ARTIST--PRODUCER--WRITER",
+      "credits": "-ARTIST--PRODUCER--WRITER-",
       "artwork": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
       "player": "https://open.spotify.com/track/24Yc8hds2PMZ0l4WdJEyk3?si=7771967888c84c6e"
     },
@@ -23,7 +23,7 @@
       "title": "THE FAR SIDE OF THE MOON",
       "year": "[2015]",
       "artist": "STRANGETHINGS",
-      "credits": "--ARTIST--PRODUCER--WRITER--MIXER",
+      "credits": "-ARTIST--PRODUCER--WRITER--MIXER-",
       "artwork": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
       "player": "https://open.spotify.com/track/17yvQx92Gqj5f6NxUEZ7In?si=fdb2620e50814c07"
     },
@@ -32,7 +32,7 @@
       "title": "OVER ME[FEAT. JENNY RAY]",
       "year": "[2015]",
       "artist": "STRANGETHINGS, JENNY RAY",
-      "credits": "--ARTIST--PRODUCER--WRITER",
+      "credits": "-ARTIST--PRODUCER--WRITER-",
       "artwork": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
       "player": "https://open.spotify.com/track/7DRW8Oj7jxTvrtie2AxZOT?si=0e51e03701ee4be8"
     },
@@ -41,9 +41,14 @@
       "title": "BRIGHT LIGHTS & CIGARETTES",
       "year": "[2015]",
       "artist": "STRANGETHINGS",
-      "credits": "--ARTIST--PRODUCER--WRITER--MIXER",
+      "credits": "-ARTIST--PRODUCER--WRITER--MIXER-",
       "artwork": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
       "player": "https://open.spotify.com/track/1CluRM8W4LhnNh2I5IXzGQ?si=5280a6218cb04d71"
+    }
+  ],
+  "music": [
+    {
+      "image": "../images/studio .jpeg"
     }
   ],
   "home": [
@@ -51,16 +56,29 @@
       "image": "../images/strangethings-02.jpg"
     }
   ],
+  "resume": [
+    {
+      "image": "../images/strangethings-20.jpg"
+    }
+  ],
   "comments": [
     {
       "id": 1,
       "name": "Magdalen",
-      "comment": "Strangethings is timeless - because of the strong and steady beat that continues throughout the song. In addition to that traditional sound, the artist takes us into a cosmic atmosphere with underlying voices and a waning guitar that leaves the listener captivated yet requesting for more."
+      "occupation": "listener",
+      "comment": "Strangethings is timeless- because of the strong and steady beat that continues throughout the song. In addition to that traditional sound, the artist takes us into a cosmic atmosphere- one with underlying voices and a waning guitar that leaves the listener captivated yet requesting for more."
     },
     {
       "name": "Emily",
+      "occupation": "producer",
       "comment": "I love collaborating with Derek. He brings great ideas to the table and we always end up with something great!",
       "id": 2
+    },
+    {
+      "name": "Ricky",
+      "occupation": "artist",
+      "comment": "Derek's savvy ear and attention to detail makes working with him a breeze. He believes in honoring the artist's vision while also sharing his deep knowledge and love of music to guide a project through to its ultimate potential. ",
+      "id": 3
     }
   ]
 }
