@@ -2,6 +2,8 @@
 
 Welcome to my personal web page! This site is designed to be my business card, resume, and media hub all rolled up into one application. The frontend repository can be found here: [github.com/derekaraujo19/araujo-web-app](https://github.com/derekaraujo19/araujo-web-app)
 
+A video walkthrough of the application running can be found at [here](https://youtu.be/lD-KjGSY7kE).
+
 
 ## Data
 
